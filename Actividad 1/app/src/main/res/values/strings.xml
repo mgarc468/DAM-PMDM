@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CalculadoraSalarioNeto</string>
+    <string name="salario_bruto">Salario Bruto:</string>
+    <string name="salario_neto">Salario Neto:</string>
+    <string name="retenci_n_de_irpf">Retención de IRPF:</string>
+    <string name="deducciones">Deducciones:</string>
+    <string name="volver">Volver</string>
+    <string name="calculadora_salario_neto">Calculadora Salario Neto</string>
+    <string name="salario_bruto_anual">Salario Bruto Anual</string>
+    <string name="introduce_el_salario_bruto">Introduce el salario bruto</string>
+    <string name="n_mero_de_pagas">Número de Pagas</string>
+    <string name="introduce_el_n_mero_de_pagas">Introduce el número de pagas</string>
+    <string name="edad">Edad</string>
+    <string name="introduce_tu_edad">Introduce tu edad</string>
+    <string name="grupo_profesional">Grupo Profesional</string>
+    <string name="grado_de_discapacidad">Grado de Discapacidad</string>
+    <string name="estado_civil">Estado Civil</string>
+    <string name="n_mero_de_hijos">Número de Hijos</string>
+    <string name="introduce_el_n_mero_de_hijos">Introduce el número de hijos</string>
+    <string name="calcular">Calcular</string>
+</resources>

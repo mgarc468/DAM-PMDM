@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:background="#FF111328">
+
+        <TextView
+            android:id="@+id/tvSalarioBruto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/salario_bruto"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tvSalarioNeto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/salario_neto"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tvRetencionIRPF"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/retenci_n_de_irpf"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tvDeducciones"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/deducciones"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/btnVolver"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/volver"
+            android:layout_marginTop="16dp"
+            android:textColor="#FFFFFF"
+            android:background="#6200EE" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
