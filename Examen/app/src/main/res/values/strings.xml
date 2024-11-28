@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="log_in">LOG_IN</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="hint_user">Introduzca un email</string>
+    <string name="password">Contraseña</string>
+    <string name="result_login_text">Bienvenido</string>
+    <string name="acceso">Acceso</string>
+</resources>
